@@ -9,3 +9,7 @@ logging:
     io:
       pivotal:
         training: INFO 
+spring:
+  cloud:
+    services:
+      registrationMethod: direct
