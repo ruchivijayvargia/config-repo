@@ -1,6 +1,0 @@
-greeting:
-  displayFortune: true
-
-fortune:
-  ribbon:
-    NFLoadBalancerRuleClassName: com.netflix.loadbalancer.WeightedResponseTimeRule
